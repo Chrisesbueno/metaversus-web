@@ -18,7 +18,7 @@ const Footer = () => (
       <div className="flex items-center justify-between flex-wrap gap-5">
         <h4 className="font-bold md:text-[64px] text-[44px] text-white "> Enter the Metaverse </h4>
         <button type="button" className="flex items-center h-fit py-4 px-6 bg-[#25618b] rounded-[32px] gap-[12px] transition-all duration-200 hover:bg-[#25509b]">
-          <img src="/headset.svg" alt="" />
+          <img src="headset.svg" alt="" />
           <span className="font-normal text-[16px] text-white">ENTER METAVERSE</span>
         </button>
       </div>

@@ -22,7 +22,7 @@ const World = () => (
       variants={fadeIn('up', 'tween', 0.3, 1)}
       className='relative mt-[68px] flex w-full '
     >
-      <img src="/map.png" alt="map" className='w-full h-full object-cover' />
+      <img src="map.png" alt="map" className='w-full h-full object-cover' />
 
       <div className="absolute bottom-[20%] right-[10%] lg:w-[70px] lg:h-[70px] w-[30px] h-[30px] lg:p-[6px] p-[3px] rounded-full bg-[#5d6680] cursor-pointer transition-all ease-in duration-300 lg:hover:w-[75px] lg:hover:h-[75px] hover:w-[35px] hover:h-[35px]">
         <img src="people-01.png" alt="people"
@@ -49,7 +49,7 @@ const World = () => (
         className='relative w-full h-full z-10' />
         <div className="relative z-10 flex flex-col -top-[40%] left-[7.5%]">
           <div className="flex justifiy-between gap-2 items-center">
-            <img src="/people.png" alt="people" />
+            <img src="people.png" alt="people" />
             <p className="font-normal text-[12px] text-white">+ 264 has joined</p>
           </div>
           <h1 className="font-bold text-[18px] text-white">The Upside Down</h1>
