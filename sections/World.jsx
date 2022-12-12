@@ -63,7 +63,7 @@ const World = () => (
         className='relative w-full h-full z-10' />
         <div className="relative z-10 flex flex-col -top-[40%] left-[7.5%]">
           <div className="flex justifiy-between gap-2 items-center">
-            <img src="/people.png" alt="people" />
+            <img src="people.png" alt="people" />
             <p className="font-normal text-[12px] text-white">+ 264 has joined</p>
           </div>
           <h1 className="font-bold text-[18px] text-white">Hawkins Labs</h1>
